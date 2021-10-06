@@ -1,2 +1,0 @@
-# GoodReadMe
-Professional README Generator
