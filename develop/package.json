@@ -1,7 +1,7 @@
 {
   "name": "goodreadme",
   "version": "1.0.0",
-  "description": "Professional README Generator",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/brittnc/GoodReadMe.git"
   },
-  "author": "brittnc",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/brittnc/GoodReadMe/issues"
   },
-  "homepage": "https://github.com/brittnc/GoodReadMe#readme"
+  "homepage": "https://github.com/brittnc/GoodReadMe#readme",
+  "dependencies": {
+    "package-lock.json": "^1.0.0"
+  }
 }
