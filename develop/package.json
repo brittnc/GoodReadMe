@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/brittnc/GoodReadMe#readme",
   "dependencies": {
+    "inquirer": "^8.2.0",
     "package-lock.json": "^1.0.0"
   }
 }
